@@ -1,4 +1,4 @@
-package org.satnam05.July;
+package org.satnam05.july23;
 
 public class MathVsStrictMathClass {
 

@@ -1,4 +1,4 @@
-package org.satnam05.July;
+package org.satnam05.july23;
 import static java.lang.Math.*;
 
 public class MathClass {
