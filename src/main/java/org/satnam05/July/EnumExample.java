@@ -1,4 +1,4 @@
-package org.satnam05;
+package org.satnam05.July;
 
 // EnumExample.java
 
